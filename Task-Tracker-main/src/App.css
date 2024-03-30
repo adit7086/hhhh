@@ -1,0 +1,7 @@
+#app {
+	min-height: 100vh;
+	height: auto;
+	background-image: url('https://firebasestorage.googleapis.com/v0/b/task-tracker-84155.appspot.com/o/pexels-ave-calvar-martinez-4835967.jpg?alt=media&token=7f323a56-abdb-405c-a696-24fcd524f59e');
+	background-size: cover;
+	background-position: top left;
+}
